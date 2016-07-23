@@ -1,6 +1,6 @@
 {
   "name": "pull-async",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "create pull-stream from async callback",
   "main": "index.js",
   "scripts": {
